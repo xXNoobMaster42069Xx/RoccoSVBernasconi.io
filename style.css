@@ -169,6 +169,10 @@ p.zitat {
 /*Vor-/Nachteile von selbstfahrenden Autos; Rechtliche Lage; Voraussetzungen (technisch gesehen)*/
 
 
+#procon img {
+    width: 240px;
+}
+
 #procpn h4 {
     font-size: 25px;
 }
@@ -219,6 +223,10 @@ p.zitat {
 /*Schlussfolgerung: Was können wir ableiten?*******************/
 
 
+#folgerung img {
+    width: 240px;
+}
+
 #folgerung h4 {
     font-size: 25px;
 }
@@ -232,6 +240,10 @@ p.zitat {
 /*Vergleich mit einer Studie***********************************/
 
 
+#vergleich img {
+    width: 240px;
+}
+
 #vergleich h4 {
     font-size: 25px;
 }
@@ -244,6 +256,10 @@ p.zitat {
 
 /*Kritischer Rückblick auf die Vorgehensweise******************/
 
+
+#rückblick img {
+    width: 240px;
+}
 
 #rückblick h4 {
     font-size: 25px;
