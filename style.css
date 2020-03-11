@@ -158,10 +158,23 @@ header nav ul li:hover {
 }
 
 
-/*WORK*****************************/
+/*Vor-/Nachteile von selbstfahrenden Autos; Rechtliche Lage; Voraussetzungen (technisch gesehen)*/
 
 
-#work {
+#procpn h4 {
+    font-size: 25px;
+}
+
+#procon p {
+    width: 700px;
+    margin: 0 auto 0 auto;
+}
+
+
+/*GEADNKENEXPERIMENTE*****************************/
+
+
+#Experiment {
     background-color: #f0f0f0;
 }
 
@@ -193,3 +206,43 @@ header nav ul li:hover {
     -o-transform: scale(1.1);
     box-shadow: 0 5px 5px rgba(0, 0, 0, 0.3);
 }
+
+
+/*Schlussfolgerung: Was können wir ableiten?*******************/
+
+
+#folgerung h4 {
+    font-size: 25px;
+}
+
+#folgerung p {
+    width: 700px;
+    margin: 0 auto 0 auto;
+}
+
+
+/*Vergleich mit einer Studie***********************************/
+
+
+#vergleich h4 {
+    font-size: 25px;
+}
+
+#vergleich p {
+    width: 700px;
+    margin: 0 auto 0 auto;
+}
+
+
+/*Kritischer Rückblick auf die Vorgehensweise******************/
+
+
+#rückblick h4 {
+    font-size: 25px;
+}
+
+#rückblick p {
+    width: 700px;
+    margin: 0 auto 0 auto;
+}
+
