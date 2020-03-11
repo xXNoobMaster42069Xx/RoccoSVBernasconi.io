@@ -112,3 +112,7 @@ header nav ul li:hover {
     background-size: cover;
     background-attachment: fixed;
 }
+
+#home h1 {
+    margin: 240px auto 0 auto;
+}
