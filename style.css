@@ -48,6 +48,13 @@ hr {
     margin: 0 auto 40 auto;
 }
 
+li, #logo {
+    transition: 300ms;
+    -webkit-transition: 300ms;
+    -moz-transition: 300ms;
+    -o-transition: 300ms;
+}
+
 
 /*HEADER*****************************/
 
@@ -75,5 +82,30 @@ header {
 
 #logo img {
     width: 100%;
+}
 
+header nav {
+    float: right;
+    margin: 10px 50px 0 0;
+}
+
+header nav ul li {
+    float: left;
+    margin-right: 25px;
+}
+
+header nav ul li a{
+    font-size: 16px;
+}
+
+header nav ul li:hover {
+    padding: 5px;
+}
+
+
+/*HOME*****************************/
+
+
+#home {
+    background: url(img/landing.jpg);
 }
