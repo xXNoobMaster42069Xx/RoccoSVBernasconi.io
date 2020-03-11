@@ -150,6 +150,14 @@ header nav ul li:hover {
     margin: 0 auto 0 auto;
 }
 
+p.zitat {
+    margin: auto;
+    width: 60%;
+    border: 2px solid #494949;
+    padding: 10px;
+}
+
+/****************IST DAS EINZIGE IMG DAS BEI HOVER DIE GRÖSSE VERÄNDERT!****************/
 #about img:hover {
     transform: scale(1.1);
     -webkit-transform: scale(1.1);
