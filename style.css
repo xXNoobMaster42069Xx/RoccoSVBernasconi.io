@@ -110,4 +110,5 @@ header nav ul li:hover {
     background: url(img/landing.jpg);
     background-position: center,center;
     background-size: cover;
+    background-attachment: fixed;
 }
