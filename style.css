@@ -63,8 +63,8 @@ hr {
 
 
 #home {
-    background: url(img/landing_page.png);
-    background-image: url(img/landing_page.png);
+   /* background: url(img/landing_page.png);
+    background-image: url(img/landing_page.png);*/
     background-position: center,center;
     background-size: cover;
     background-attachment: fixed;
