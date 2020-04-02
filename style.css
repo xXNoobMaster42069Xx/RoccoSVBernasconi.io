@@ -78,18 +78,21 @@ hr {
 }
 
 #home h1 {
-    margin: 240px auto 0 auto;
+    margin: 120px auto 0 auto;
     font-size: 110px;
+    color: #eaf078;
 }
 
 #home h2 {
     margin: 0 auto 0 auto;
-    font-size: 25px;    
+    font-size: 25px; 
+    color: #d6db74;   
 }
 
 #home img {
     width: 40px;
-    margin-top: 150px;
+    margin-top: 100px;
+    margin-bottom: 50px;
     opacity: 0.7;
 }
 
@@ -173,7 +176,7 @@ hr {
 #projects ul li{
     width: 33.3%;
     float: left;
-    margin-bottom: 15px;
+    margin-bottom: 30px;
 }
 
 #projects img {
