@@ -65,6 +65,12 @@ hr {
     margin: 0 auto;
 }
 
+/**Background**********************/
+
+    /*background-image: url(./img/circuit-board-png-1.png);
+    background-position: center,center;
+    background-size: cover;
+    background-attachment: fixed;*/
 
 /**Navbar**************************/
 
@@ -109,7 +115,6 @@ hr {
 
 
 /*ABOUT*****************************/
-
 
 #about img {
     width: 240px;
