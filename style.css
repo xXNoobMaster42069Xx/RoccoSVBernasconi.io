@@ -59,6 +59,10 @@ hr {
     -o-transition: 300ms;
 }
 
+.centered {
+    margin: 0 auto;
+}
+
 
 /**************************Falls Header einfügen->style-test.css anschauen!**************************/
 
