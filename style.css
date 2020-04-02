@@ -45,7 +45,11 @@ hr {
     height: 3px;
     background: #494949;
     border: 0px;
-    margin: 0 auto 40 auto;
+    margin: 0 auto 40px auto;
+}
+
+#hr_hidden {
+    visibility: hidden;
 }
 
 #logo, li, img  {
@@ -62,9 +66,8 @@ hr {
 /*HOME*****************************/
 
 
-#home {
-   /* background: url(img/landing_page.png);
-    background-image: url(img/landing_page.png);*/
+#home  {
+    background-image: url(./img/landing_page.png);
     background-position: center,center;
     background-size: cover;
     background-attachment: fixed;
@@ -149,7 +152,7 @@ hr {
 
 #projects {
     width: 900px;
-    margin: 0 auto o auto; 
+    margin: 0 auto 0 auto; 
 }
 
 #projects ul {
